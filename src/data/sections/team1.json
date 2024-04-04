@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/01.jpg",
+    "name": "Hasib sharif",
+    "title": "Fitness Instructor"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/02.jpg",
+    "name": "maxo Leo",
+    "title": "Psychologist"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/03.jpg",
+    "name": "Leio Man",
+    "title": "financial manager"
+  },
+  {
+    "id": 4,
+    "image": "/img/team/4.jpg",
+    "name": "Robert Front",
+    "title": "Physical Instructor"
+  },
+  {
+    "id": 5,
+    "image": "/img/team/5.jpg",
+    "name": "Legender Mao",
+    "title": "Master of Body Anatomy"
+  },
+  {
+    "id": 6,
+    "image": "/img/team/6.jpg",
+    "name": "Matt Huk",
+    "title": "Karate instructor"
+  }
+]

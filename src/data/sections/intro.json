@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Sports",
+      "second": "Univercity"
+    },
+    "content": "The Sports University was established in 2010 to improve the performance of athletes, and the mission of this group is to promote and grow students in various fields.",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Present",
+      "second": "Certificate of validity"
+    },
+    "content": "The Sports University was established in 2010 to improve the performance of athletes, and the mission of this group is to promote and grow students in various fields.",
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Original Updated equipment",
+    "content": "The Sports University was established in 2010 to improve the performance of athletes, and the mission of this group is to promote and grow students in various fields.",
+    "image": "/img/slid/02.jpg"
+  }
+]

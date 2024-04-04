@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Talent Search",
+        "icon": "pe-7s-id",
+        "content": "At this university, we are looking for top talents and the emergence of world champions"
+    },
+    {
+      "id": 2,
+      "title": "Personal and growth",
+      "icon": "pe-7s-rocket",
+      "content": "Personal growth of students is our main mission in this sports university"
+    },
+    {
+      "id": 3,
+      "title": "Global pride",
+      "icon": "pe-7s-cup",
+      "content": "By passing academic and skill courses after graduation, you will surely be the world champions."
+    }
+]

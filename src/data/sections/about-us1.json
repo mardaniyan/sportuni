@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.jpg",
+  "image2": "/img/intro/3.jpg",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "About Us",
+  "title": { "first": "We are more than just", "second": "a Univercity" },
+  "content": "The Sports University was established in 2010 to improve the performance of athletes, and the mission of this group is to promote and grow students in various fields.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Preparation", "second": "Practice" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "gym",
+      "name": { "first": "professional", "second": "tournament" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "a valid", "second": "Certification" },
+      "wowDelay": ".8s"
+    }
+  ]
+}

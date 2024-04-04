@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/01.jpg",
+    "title": "International Karate Tournament",
+    "tags": ["Karate", "Self Defense"],
+    "filterCategory": ["Self Defense"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/02.jpg",
+    "title": "International Tennis Tournament",
+    "tags": ["Tennis", "Ping pong"],
+    "filterCategory": ["Tennis"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/03.jpg",
+    "title": "International Swim Tournament",
+    "tags": ["Swim", "Water Polo"],
+    "filterCategory": ["Swim"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/04.jpg",
+    "title": "International Rock Climbing Tournament",
+    "tags": ["Rock Climbing", "riding bike"],
+    "filterCategory": ["Rock Climbing"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/05.jpg",
+    "title": "International Soccer Tournament",
+    "tags": ["Soccer", "Footsal"],
+    "filterCategory": ["Soccer"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/06.jpg",
+    "title": "International fencing Tournament",
+    "tags": ["fencing", "Equestrian"],
+    "filterCategory": ["fencing"]
+  }
+]

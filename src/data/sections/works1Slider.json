@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Tennis Tournament",
+    "secTex": "International Tennis Tournament",
+    "image": "/img/portfolio/metro/01.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 2,
+    "title": "Fencing Tournament",
+    "secTex": "International Fencing Tournament",
+    "image": "/img/portfolio/metro/02.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "Karate Tournament",
+    "secTex": "International Karate Tournament",
+    "image": "/img/portfolio/metro/03.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 4,
+    "title": "FIFA World Cup 2020",
+    "secTex": "International football matches",
+    "image": "/img/portfolio/metro/04.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 5,
+    "title": "Rock Climbing",
+    "secTex": "International Rock Climbing Competition",
+    "image": "/img/portfolio/metro/05.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  }
+]
